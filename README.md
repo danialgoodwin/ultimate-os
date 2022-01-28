@@ -27,3 +27,11 @@ Generic apps:
 - Notes (includes TODOs)
 - Social
 - System
+
+
+
+## Experimental
+Eventually, these ideas will be moved to more specific areas.
+
+app-key + f1: show keyboard shortcuts. (would work for all apps, would be able to toggle profiles and modify shortcuts).
+Might just leave f1 as help? Though eventually make it easy to change?
