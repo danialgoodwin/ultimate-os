@@ -24,6 +24,13 @@ Full support for keyboard-power-users.
 Generic apps:
 - Calculator
 - Explorer (internet and local files)
+    - GifViewer, GifEditor
+    - ImageViewer, ImageEditor
+    - PdfViewer, PdfEditor
+    - TextViewer, TextEditor
+    - VideoViewer, VideoEditor
+- Market
+- Microwave. (perhaps an `interface MicrowaveHardware` with `onPress(int buttonType)` and `onDoorStatusChange(int doorStatus)`)
 - Notes (includes TODOs)
 - Social
 - System
