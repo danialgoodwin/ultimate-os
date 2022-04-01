@@ -18,6 +18,8 @@ Customizable
 
 Full support for keyboard-power-users.
 
+TODO: Save state as JSON so that it can easily be saved to any third-party hosting. This will also allow for easy imports and exports of user data.
+
 
 
 ## Other
