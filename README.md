@@ -4,6 +4,8 @@ My ideas for the ultimate operating system, includes organization, shortcuts, fe
 Things are as simple as they seem because they were designed that way.
 
 Related idea: ij-os (Intellij OS or Idea OS). IntelliJ features everywhere, including text fields
+- Cut line: ctrl + x
+- Count letters and words when text is selected (small GUI in status bar)
 
 
 
